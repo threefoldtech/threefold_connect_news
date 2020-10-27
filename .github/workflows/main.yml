@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag jimber/threefold-connect-news:{{ github.sha }}
+        run: docker build . --file Dockerfile --tag "jimber/threefold-connect-news:{{ github.sha }}"
       - name: Log into GitHub Container Registry
         run: echo "${{ secrets.CR_PAT }}" | docker login https://ghcr.io -u ${{ secrets.ACTOR }} --password-stdin
       - name: Push to dockerhub
