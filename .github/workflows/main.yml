@@ -16,4 +16,4 @@ jobs:
       - name: Log into GitHub Container Registry
         run: echo "${{ secrets.DOCKERHUB_PASSWORD }}" | docker login -u ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
       - name: Push to dockerhub
-        run: docker push threefoldjimber/threefold-connect-news:{{ github.sha }}
+        run: docker push threefoldjimber/threefold-connect-news:${{ github.sha }}
