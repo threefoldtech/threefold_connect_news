@@ -14,6 +14,6 @@ jobs:
       - name: Build the Docker image
         run: docker build . --file Dockerfile --tag threefoldjimber/threefold-connect-news:${{ github.sha }}
       - name: Log into GitHub Container Registry
-        run: echo "${{ secrets.DOCKERHUB_PASSWORD }}" | docker login https://ghcr.io -u ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
+        run: echo "${{ secrets.DOCKERHUB_PASSWORD }}" | docker login -u ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
       - name: Push to dockerhub
         run: docker push threefoldjimber/threefold-connect-news:{{ github.sha }}
