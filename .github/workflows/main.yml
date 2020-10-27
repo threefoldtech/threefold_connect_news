@@ -21,3 +21,14 @@ jobs:
         run: |
           docker tag threefoldjimber/threefold-connect-news:${{ github.sha }} threefoldjimber/threefold-connect-news:latest
           docker push threefoldjimber/threefold-connect-news:latest
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: deploy on ssh
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          script: docker run -d --restart unless-stopped --name threefold-connect-news --network 3proxynet threefoldjimber/threefold-connect-news:${{ github.sha }}
