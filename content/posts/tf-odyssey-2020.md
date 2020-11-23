@@ -3,6 +3,7 @@ title: ThreeFold @ Odyssey Momentum 2020!
 date: 2020-11-13
 published: true
 tags: ['event']
+cover_image: ./images/odysseymomentum.jpeg
 canonical_url: false
 description: "ThreeFold Now Marketplace is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌 Read more within."
 ---
