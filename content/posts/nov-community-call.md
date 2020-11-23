@@ -3,6 +3,7 @@ title: Announcing the November 2020 community call
 date: 2020-10-26
 published: true
 tags: ['community']
+cover_image: ./images/nov2020communitycall.png
 canonical_url: false
 description: "Mark your calendars! Next Monday November 2nd at 5pm CET we will host a 30-minute community call to update you on exciting progress and to show you what we’ll be working towards in the coming months."
 ---
