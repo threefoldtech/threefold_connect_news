@@ -3,7 +3,6 @@ title: November Ask Me Anything Announcement
 date: 2020-11-04
 published: true
 tags: ['community','ama']
-cover_image: ./images/nov2020amaannouncement.jpeg
 canonical_url: false
 description: "ThreeFold will be hosting an Ask Me Anything on Tuesday November 10 at 5pm CET!"
 ---
