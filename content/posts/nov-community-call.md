@@ -1,5 +1,5 @@
 ---
-title: Announcing the November 2020 Community Call
+title: Announcing the November 2020 community call
 date: 2020-10-26
 published: true
 tags: ['community']
