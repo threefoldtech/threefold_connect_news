@@ -1,5 +1,5 @@
 ---
-title: ThreeFold October 2020 Community Update!
+title: ThreeFold's October 2020 community update is here
 date: 2020-10-30
 published: true
 tags: ['update','community']
