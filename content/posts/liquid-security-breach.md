@@ -1,5 +1,5 @@
 ---
-title: Liquid Security Breach, Action Suggested
+title: Liquid security breach, action suggested
 date: 2020-11-18
 published: true
 tags: ['liquid','tft']
