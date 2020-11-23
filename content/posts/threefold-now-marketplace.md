@@ -1,5 +1,5 @@
 ---
-title: ThreeFold Now Marketplace coming soon!
+title: ThreeFold Now Marketplace is coming soon!
 date: 2020-10-22
 published: true
 tags: ['Marketplace']
