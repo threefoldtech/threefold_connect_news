@@ -1,5 +1,5 @@
 ---
-title: November 10 Product Management Highlights!
+title: November 10 product management highlights
 date: 2020-11-10
 published: true
 tags: ['marketplace','tfgrid','3bot']
