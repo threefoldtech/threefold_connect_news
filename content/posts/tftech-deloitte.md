@@ -1,5 +1,5 @@
 ---
-title: ThreeFold Tech Recognized by Deloitte Belgium!
+title: ThreeFold Tech recognized by Deloitte Belgium
 date: 2020-11-12
 published: true
 tags: ['ThreeFold Tech']
