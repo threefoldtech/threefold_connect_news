@@ -1,5 +1,5 @@
 ---
-title: November Community Call Recording!
+title: The November 2020 community call recording
 date: 2020-11-03
 published: true
 tags: ['community']
