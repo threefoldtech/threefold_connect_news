@@ -1,5 +1,5 @@
 ---
-title: 3Bot Connect Renamed to ThreeFold Connect!
+title: 3Bot Connect being renamed to ThreeFold Connect
 date: 2020-11-17
 published: true
 tags: ['tfconnect']
