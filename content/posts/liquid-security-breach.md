@@ -3,6 +3,7 @@ title: Liquid security breach, action suggested
 date: 2020-11-18
 published: true
 tags: ['liquid','tft']
+cover_image: ./images/liquidsecurity.jpeg
 canonical_url: false
 description: "We have just been informed there has been a security incident at Liquid.com. Although no funds seem to have been affected by the breach, Liquid.com does recommend all customers to change their password and 2FA at their earliest convenience."
 ---
