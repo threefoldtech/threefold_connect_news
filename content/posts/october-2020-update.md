@@ -1,5 +1,5 @@
 ---
-title: ThreeFold October 2020!
+title: ThreeFold October 2020 Community Update!
 date: 2020-10-30
 published: true
 tags: ['update','community']
