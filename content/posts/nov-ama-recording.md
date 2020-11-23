@@ -1,5 +1,5 @@
 ---
-title: November 2020 AMA Recording!
+title: Sharing the November 2020 AMA recording
 date: 2020-11-12
 published: true
 tags: ['community','ama']
