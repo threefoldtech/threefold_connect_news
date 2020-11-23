@@ -13,4 +13,10 @@ Next Monday November 2nd at 5pm CET we will host a 30-minute community call to u
 
 The following week we will host an AMA (Ask Me Anything) to answer any questions you might have related or unrelated to the community call.
 
-Call details forthcoming!
+Call details:
+
+[Zoom Link](https://us02web.zoom.us/j/89188543322)
+Meeting ID: 891 8854 3322
+
+[Google Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWw4NjQzYnFoZTBpOWhvaDQxZnJuOGNmZXQgdGFnZ2FydHNAaW5jdWJhaWQuY29t&tmsrc=taggarts%40incubaid.com)
+The room will open 10 minutes prior to the call!
