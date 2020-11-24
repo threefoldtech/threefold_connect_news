@@ -77,8 +77,8 @@ export default {
 }
 
 body {
-  background: url("~@/assets/images/greyfloral.webp");
-  /* Background pattern from Toptal Subtle Patterns */
-  backdrop-filter: #222;
+  background: url("~@/assets/images/bg.svg");
+  background-position: center;
+  background-size: cover;
 }
 </style>
