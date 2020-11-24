@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div class="top-bar"></div>
 
     <header class="header" v-if="showLogo">
       <div class="header__left">
@@ -32,6 +33,11 @@ export default {
 </script>
 
 <style lang="scss">
+.top-bar{
+  background: #0A73B8;
+  height: 30px;
+  margin-bottom: 45px;
+}
 .header {
   display: flex;
   justify-content: space-between;
