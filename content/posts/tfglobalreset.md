@@ -2,7 +2,7 @@
 title: ThreeFold participating @ Global Reset!
 date: 2020-12-04
 published: true
-tags: ['tfconnect']
+tags: ['event']
 canonical_url: false
 description: "ThreeFold is proud to be supporting and attending the Global Reset Summit taking place this weekend, December 5 & 6."
 ---
