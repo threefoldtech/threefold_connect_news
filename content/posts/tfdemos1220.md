@@ -1,5 +1,5 @@
 ---
-title: Must Watch: ThreeFold Product Demos
+title: ThreeFold Product Demos Are a Must Watch!
 date: 2020-12-11
 published: true
 tags: ['tfgrid','demos','evdc']
