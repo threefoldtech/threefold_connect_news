@@ -5,7 +5,7 @@ published: true
 tags: ['event']
 cover_image: ./images/odysseymomentum.jpeg
 canonical_url: false
-description: "ThreeFold Now Marketplace is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌 Read more within."
+description: "Momentum is an online event of 49 hours with more than 2,000 participants and 105 teams working on 21 complex 21st-century problems."
 ---
 
 This weekend, ThreeFold will be involved in [Odyssey Momentum 2020](https://www.odyssey.org/momentum/) – Momentum is an online event of 49 hours with more than 2,000 participants and 105 teams working on 21 complex 21st-century problems.
