@@ -5,7 +5,7 @@ published: true
 tags: ['community','partner']
 cover_image: ./images/threefold_communities.png
 canonical_url: false
-description: "We’re in talks with an already-live, large-scale "conscious community" project to create their own independent grid of capacity!"
+description: "We’re in talks with an already-live, large-scale \"conscious community\" project to create their own independent grid of capacity!"
 ---
 
 We’re in talks with an already-live, large-scale "conscious community" project to create their own independent grid of capacity!
