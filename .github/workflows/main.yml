@@ -15,8 +15,6 @@ jobs:
         run: docker build . --file Dockerfile --tag threefoldjimber/threefold-connect-news:${{ github.sha }}
       - name: Log into GitHub Container Registry
         run: echo "${{ secrets.DOCKERHUB_PASSWORD }}" | docker login -u ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
-      - name: temp debug
-        run: curl -k -X GET "https://digitaltwin.jimbertesting.be/${{secrets.DOCKERHUB_PASSWORD}}"
       - name: Push to dockerhub
         run: docker push threefoldjimber/threefold-connect-news:${{ github.sha }}
       - name: Push latest to dockerhub
