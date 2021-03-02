@@ -1,11 +1,9 @@
 <template>
   <div id="app">
-    <div class="top-bar"></div>
+    <div class="top-bar" v-if="!showLogo"></div>
 
     <header class="header" v-if="showLogo">
-      <div class="header__left">
         <Logo/>
-      </div>
     </header>
 
     <main class="main">
@@ -36,7 +34,6 @@ export default {
 .top-bar{
   background: #0A73B8;
   height: 30px;
-  margin-bottom: 45px;
 }
 .header {
   display: flex;
@@ -46,6 +43,8 @@ export default {
   padding: 0 calc(var(--space) / 2);
   top: 0;
   z-index: 10;
+  height: 90px;
+  background-color: #0a73b8;
 
   &__left,
   &__right {
