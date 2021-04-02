@@ -2,7 +2,7 @@
 title: ThreeFold Product Demos Are a Must Watch!
 date: 2020-12-11
 published: true
-tags: ['tfgrid','demos','evdc']
+tags: ['threefold_grid','threefold_cloud','digital_twin','technology']
 cover_image: ./images/tfproductdemos1220.png
 canonical_url: false
 description: "Demos of the latest & greatest ThreeFold products & solutions – some of which are available today & some coming soon on testnet."

@@ -2,7 +2,7 @@
 title: Token Plan Guidance Committee
 date: 2021-02-03
 published: true
-tags: ['tfgrid','token','farming','community']
+tags: ['threefold_grid','threefold_token','farming','community']
 cover_image: ./images/token-plan-guidance.png
 canonical_url: false
 description: "Seeking participation from the community to finalize the plan for TFT!"

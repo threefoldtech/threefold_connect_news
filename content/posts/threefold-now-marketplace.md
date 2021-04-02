@@ -2,7 +2,7 @@
 title: ThreeFold Now Marketplace is coming soon!
 date: 2020-10-22
 published: true
-tags: ['Marketplace']
+tags: ['threefold_cloud','technology','update']
 canonical_url: false
 description: "ThreeFold Now Marketplace is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌 Read more within."
 ---

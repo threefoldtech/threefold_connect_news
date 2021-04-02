@@ -2,7 +2,7 @@
 title: Take a look at the Artheon VR Museum!
 date: 2020-12-09
 published: true
-tags: ['partner','project']
+tags: ['partner','update']
 cover_image: ./images/artheonvrintro.png
 canonical_url: false
 description: "Here's a look at an incredible project happening in the ThreeFold universe!"

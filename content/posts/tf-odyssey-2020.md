@@ -2,7 +2,7 @@
 title: ThreeFold @ Odyssey Momentum 2020!
 date: 2020-11-13
 published: true
-tags: ['event']
+tags: ['event','community']
 cover_image: ./images/odysseymomentum.jpeg
 canonical_url: false
 description: "Momentum is an online event of 49 hours with more than 2,000 participants and 105 teams working on 21 complex 21st-century problems."

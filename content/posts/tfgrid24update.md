@@ -2,7 +2,7 @@
 title: Great Results on Grid 2.4 Testing!
 date: 2021-02-10
 published: true
-tags: ['grid','testing','community']
+tags: ['threefold_grid','community','threefold_cloud','technology']
 cover_image: ./images/tf_grid_24_update.png
 canonical_url: false
 description: "We still need more people willing to test – join in!"

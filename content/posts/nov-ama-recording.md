@@ -2,7 +2,7 @@
 title: Sharing the November 2020 AMA recording
 date: 2020-11-12
 published: true
-tags: ['community','ama']
+tags: ['community','event']
 canonical_url: false
 description: "For those who missed the Ask Me Anything on Tuesday evening, you can find the call recording within!"
 ---

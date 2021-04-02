@@ -2,7 +2,7 @@
 title: TF Grid 2.4 is coming to mainnet!
 date: 2021-02-02
 published: true
-tags: ['tfgrid','tech','update']
+tags: ['threefold_grid','technology','update']
 cover_image: ./images/grid-24-coming-mainnet.png
 canonical_url: false
 description: "We're in the final stages of testing the 2.4 update."

@@ -2,7 +2,7 @@
 title: Get to know TF Meet
 date: 2020-12-17
 published: true
-tags: ['tfnow','tfmeet']
+tags: ['technology','community','digital_twin']
 cover_image: ./images/tfmeetintro.png
 canonical_url: false
 description: "ThreeFold Meet is a P2P alternative to centralized video conferencing solutions."

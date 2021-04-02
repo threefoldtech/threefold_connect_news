@@ -2,7 +2,7 @@
 title: Announcing a partnership with Presearch!
 date: 2020-11-27
 published: true
-tags: ['partner','presearch']
+tags: ['partner','update']
 cover_image: ./images/threefoldandpresearch.jpeg
 canonical_url: false
 description: "We are thrilled to announce a collaborative partnership with Presearch, a community-powered, decentralized search engine that provides better results while protecting your privacy and rewarding you when you search!"

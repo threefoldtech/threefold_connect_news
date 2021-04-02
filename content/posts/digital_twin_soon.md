@@ -2,7 +2,7 @@
 title: Digital Twin v1 is Coming!
 date: 2021-02-19
 published: true
-tags: ['twin','digitaltwin','update']
+tags: ['digital_twin','update']
 cover_image: ./images/digitaltwincoming.png
 canonical_url: false
 description: "The first version of Digital Twin will feature messaging and video calling."

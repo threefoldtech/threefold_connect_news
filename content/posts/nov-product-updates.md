@@ -2,7 +2,7 @@
 title: November 10 product management highlights
 date: 2020-11-10
 published: true
-tags: ['marketplace','tfgrid','3bot']
+tags: ['update','community','technology',threefold_grid','threefold_cloud']
 canonical_url: false
 description: "Some quick product management highlights for you, within, & a major thank you to everyone working so hard on these products and solutions every day!"
 ---
