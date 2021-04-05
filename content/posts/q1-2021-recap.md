@@ -16,4 +16,4 @@ Here's a quick look at the first three months of 2021 for ThreeFold:
 
 ✅ 3Node Pre-Order Batch 1 of 2021 has closed (welcome, new farmers!)
 
-Find the full update [here](https://new.threefold.io/info/threefold#/threefold__q12021recap).
+Find the full update [here](https://threefold.io/info/threefold#/threefold__q12021recap).
