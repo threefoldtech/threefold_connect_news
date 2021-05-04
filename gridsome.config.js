@@ -42,8 +42,8 @@ module.exports = {
         // Optional: any properties you wish to set for `Feed()` constructor
         // See https://www.npmjs.com/package/feed#example for available properties
         feedOptions: {
-          title: 'My Awesome Blog Feed',
-          description: 'Best blog feed evah.'
+          title: 'Threefold News',
+          description: 'A blog of the ThreeFold Foundation.'
         },
         // === All options after this point show their default values ===
         // Optional; opt into which feeds you wish to generate, and set their output path
