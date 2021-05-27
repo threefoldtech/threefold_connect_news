@@ -1,6 +1,6 @@
 ---
 title: Building a Better Solution for Our Planet
-date: 2020-04-23
+date: 2021-04-23
 published: true
 tags: ['update','why','peer_to_peer','threefold_grid']
 cover_image: ./images/better_solution_news.png
