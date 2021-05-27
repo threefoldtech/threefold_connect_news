@@ -1,6 +1,6 @@
 ---
 title: Say Hello to the Dispersed Storage
-date: 2020-04-20
+date: 2021-04-20
 published: true
 tags: ['update','technology','technology_cloud','threefold_grid']
 cover_image: ./images/dispersed_hello_news.png
