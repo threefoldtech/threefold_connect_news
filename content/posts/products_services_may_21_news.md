@@ -8,14 +8,13 @@ canonical_url: false
 description: "A round of recent updates to ThreeFold & Grid services, ThreeFold Connect, and TFT."
 ---
 
-**ThreeFold Products & Services Updates 2.7.1**
-Today we present you a round of recent updates to ThreeFold Cloud & Grid Services (live on Testnet), ThreeFold Connect, & ThreeFold Token (live on Production)!
+**ThreeFold Products & Services Updates 2.7.1:** Today we present you a round of recent updates to ThreeFold Cloud & Grid Services (live on Testnet), ThreeFold Connect, & ThreeFold Token (live on Production)!
 
 **Highlights**
-☁️ Backend and user experience improvements to the eVDC
-🌐 New version of Zero OS
-👜 Bitcoin deposit and vesting via TF Connect
-🥞 Binance Smart Chain integration (Pancakeswap)
+- ☁️ Backend and user experience improvements to the eVDC
+- 🌐 New version of Zero OS
+- 👜 Bitcoin deposit and vesting via TF Connect
+- 🥞 Binance Smart Chain integration (Pancakeswap)
 
 What Now?
 - [Read the full release notes](https://threefold.io/info/cloud#/cloud__release_notes_2_7_1)
