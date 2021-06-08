@@ -1,5 +1,5 @@
 ---
-title: New Nodes In New Part Of The World
+title: New Nodes In New Parts Of The World
 date: 2021-05-28
 published: true
 tags: ['threefold_grid','farming','community']
