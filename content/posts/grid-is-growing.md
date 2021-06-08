@@ -3,7 +3,7 @@ title: New Nodes In New Parts Of The World
 date: 2021-05-28
 published: true
 tags: ['threefold_grid','farming','community']
-cover_image: ./images/grid_is_growing.jpg
+cover_image: ./images/grid_is_growing.png
 canonical_url: false
 description: "The ThreeFold Grid is growing steadily."
 ---
