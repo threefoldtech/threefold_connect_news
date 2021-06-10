@@ -3,7 +3,7 @@ title: ThreeFold Coverage in CoinTelegraph
 date: 2021-06-10
 published: true
 tags: ['update','peer_to_peer','technology','blockchain']
-cover_image: ./cointelegraphjune2021.png
+cover_image: ./images/cointelegraphjune2021.png
 canonical_url: false
 description: "Is a new decentralized internet, or Web 3.0, possible? via CoinTelegraph."
 ---
