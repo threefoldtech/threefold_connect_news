@@ -15,4 +15,4 @@ The Internet revolution is upon us. Kudos to Dfinity for their Internet Computer
 <br/>
 <br/>
 
-**Full article [here]**(https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/)
+**Full article [here](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/)**
