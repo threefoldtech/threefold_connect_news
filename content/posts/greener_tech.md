@@ -1,22 +1,15 @@
 ---
-title: ThreeFold Coverage in Bankless Times
-date: 2021-06-16
+title: ThreeFold Has Plans to Go More Green
+date: 2021-06-13
 published: true
-tags: ['news','update']
-cover_image: ./images/greener_tech_strategy.png
+tags: ['press_release','update','why']
+cover_image: ./images/uae_based_green.png
 canonical_url: false
-description: "ThreeFold’s Green Technology Strategy to a Fairer, More Sustainable World - via Bankless Times"
+description: "UAE Based decentralized P2P internet platform goes green to reduce internet energy consumption - Via UnlockBC"
 ---
 
-🗞 **ThreeFold’s Green Technology Strategy to a Fairer, More Sustainable World**
-<br/>
-<br/>
-“We have the potential to offset energy usage 100 per cent by the end of 2021, and our goal is to take two times more carbon out of the air than we put in,” says, Kristof de Spiegeleer, co-founder of ThreeFold.
+"Traditional industry solutions focus on increasing the use of renewable energies to power data centers. But this is not a viable solution. As per ThreeFold they need to drastically reduce the global internet's energy consumption, and we must act now."
 <br/>
 <br/>
 
-Full article [here](https://www.banklesstimes.com/2021/06/14/threefolds-green-technology-strategy-to-a-fairer-more-sustainable-world/)
-<br/>
-<br/>
-
-If you want to read more about ThreeFold energy savings, dive into [our wiki](https://wiki.threefold.io/#/threefold__energy_savings)!
+See the coverage from UnlockBC [here](https://www.unlock-bc.com/news/2021-06-13/uae-based-decentralized-p2p-internet-platform-goes-green-to-reduce-internet-energy-consumption)
