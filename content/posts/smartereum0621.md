@@ -3,7 +3,7 @@ title: ThreeFold Coverage in Smartereum
 date: 2021-06-30
 published: true
 tags: ['news','blockchain','technology']
-cover_image: ./smartereum0621.png
+cover_image: ./images/smartereum0621.png
 canonical_url: false
 description: "ThreeFold is Audaciously Building a New Decentralized Internet - via Smartereum"
 ---
