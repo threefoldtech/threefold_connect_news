@@ -3,7 +3,7 @@ title: Decentralize the DigiByte Blockchain by Deploying a Node on the ThreeFold
 date: 2021-06-24
 published: true
 tags: ['blockchain','partner','update','threefold_grid','threefold_cloud']
-cover_image: ./digibytedeploy.png
+cover_image: ./image/digibytedeploy.png
 canonical_url: false
 description: "Today we are happy to share with you some news from our partnership with the DigiByte Foundation!"
 ---
