@@ -5,7 +5,7 @@ published: true
 tags: ['threefold_grid','farming']
 cover_image: ./images/decentralized_and_inclusive.png
 canonical_url: false
-description: "A new model that helps anyone (including Farmers) generate income by selling capacity. "
+description: "A new model that helps anyone (including Farmers) generate income by selling capacity."
 ---
 
 ThreeFold created a decentralized business model for the sales of capacity. While Farmers can increase their yields by selling their capacity themselves, the cultivation model (or proof-of-utilization) allows for sales channels to promote and sell ThreeFold Grid capacity to the world.  
