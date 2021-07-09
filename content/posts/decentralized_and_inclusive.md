@@ -15,7 +15,7 @@ ThreeFold created a decentralized business model for the sales of capacity. Whil
 
 For example, a company could reach out to multiple farmers to do active sales for them and in return, they would get 40% of all cultivated tokens. This is ideal for the more "passive" farmers that only want to farm without having to actively sell their capacity.
 
-This provides farmers with a hybrid model where they can choose to sell their capacity or outsource this to professionals. If selling their capacity, Farmers would improve their cultivation returns by 5X (from 10% to 50%) on utlization. 
+This provides farmers with a hybrid model where they can choose to sell their capacity or outsource this to professionals. If selling their capacity, Farmers would improve their cultivation returns by 5X (from 10% to 50%) on utilization. 
 
 To see what this would mean please set Cell C-20 at 10% or 50% on [the ThreeFold Farming Reward Calculator](https://wiki.threefold.io/#/threefold__farming_calculator).
 
