@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Grid v2.8.0 Highlights and Release Notes
-date: 2021-07-20
+date: 2021-07-22
 published: true
 tags: ['technology','update','peer_to_peer','threefold_grid']
 cover_image: ./images/tfgrid280.png
