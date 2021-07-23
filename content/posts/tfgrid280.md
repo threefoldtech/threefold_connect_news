@@ -5,7 +5,7 @@ published: true
 tags: ['technology','update','peer_to_peer','threefold_grid']
 cover_image: ./images/tfgrid280.png
 canonical_url: false
-description: "Check out a little piece of what we're building at ThreeFold!"
+description: "Generic VMs support, TF Explorer v0.5.1, and Farming & Minting operational improvements!"
 ---
 
 📚 **ThreeFold Update** 📚
