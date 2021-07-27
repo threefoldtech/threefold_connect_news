@@ -1,6 +1,9 @@
 <template>
   <g-link class="logo" to="/">
-    <i class="fas fa-arrow-left"></i> <span>News</span>
+    <div class="header-zone">
+      <i class="fas fa-arrow-left" style="font-size: 18px"></i>
+      <span class="title">News</span>
+    </div>
   </g-link>
 </template>
 
@@ -13,15 +16,24 @@ siteName
 </static-query>
 
 <style lang="scss">
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.header-zone {
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-size: 19px;
+  font-family: 'Lato', sans-serif !important;
+}
 .logo {
   text-decoration: none;
   color: white !important;
-  font-size: .9em;
   background-color: #0a73b8;
   font-size: 36px;
   padding: 4px 16px;
   span {
-    padding-left: 20px;
+    padding-left: 37px;
   }
   &__image {
     vertical-align: middle;

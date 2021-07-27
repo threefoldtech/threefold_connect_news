@@ -5,6 +5,7 @@ html {
 
 // Light default theme
 body {
+	//COLORS
  	--bg-color: #F3F7F9;
  	--bg-content-color: #fff;
  	--bg-code: #fffbf3;
@@ -12,10 +13,18 @@ body {
  	--title-color: #111;
  	--link-color: #6b17e6;
  	--border-color:  rgba(0,0,0,.1);;
+
+	//SPACING
   --space: 3.5rem;
+	--header-space: 1.75rem;
   --content-width: 860px;
   --header-height: 80px;
+
+	// BORDER
   --radius: 5px;
+
+	//FONTS
+	--title-size: 20px;
 }
 
 // Make  things smaller for mobile
@@ -25,7 +34,9 @@ body {
 	}
 	body {
 		--space: 1.5rem;
+		--header-space: 0.5rem;
 		--header-height: 60px;
+		--title-size: 14px;
 	}
 }
 

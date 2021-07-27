@@ -39,11 +39,11 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: var(--header-height);
-  padding: 0 calc(var(--space) / 2);
+  min-height: 50px;
+  padding: 0 calc(var(--header-space) / 2);
   top: 0;
   z-index: 10;
-  height: 90px;
+  height: 50px;
   background-color: #0a73b8;
 
   &__left,
