@@ -1,5 +1,5 @@
 ---
-title: Watch the P2P File Browser Demo!
+title: Watch the P2P File Browser Demo
 date: 2021-07-29
 published: true
 tags: ['technology','update','peer_to_peer','threefold_grid','digital_twin']
