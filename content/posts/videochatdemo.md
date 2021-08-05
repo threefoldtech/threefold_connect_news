@@ -1,5 +1,5 @@
 ---
-title: Watch the Self-Hosted Video Chat Demo!
+title: Watch the Self-Hosted Video Chat Demo
 date: 2021-07-20
 published: true
 tags: ['technology','update','peer_to_peer','threefold_grid','digital_twin']
