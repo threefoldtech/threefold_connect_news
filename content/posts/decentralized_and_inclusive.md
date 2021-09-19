@@ -17,6 +17,6 @@ For example, a company could reach out to multiple farmers to do active sales fo
 
 This provides farmers with a hybrid model where they can choose to sell their capacity or outsource this to professionals. If selling their capacity, Farmers would improve their cultivation returns by 5X (from 10% to 50%) on utilization. 
 
-To see what this would mean please set Cell C-20 at 10% or 50% on [the ThreeFold Farming Reward Calculator](https://wiki.threefold.io/#/threefold__farming_calculator).
+To see what this would mean please set Cell C-20 at 10% or 50% on [the ThreeFold Farming Reward Calculator](https://library.threefold.me/info/tfgrid/#/farming/farming_calculator).
 
 _P.s. If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's introduce the world to the farming community behind this awesome project!_
