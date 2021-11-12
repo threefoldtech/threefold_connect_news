@@ -32,7 +32,7 @@ export default {
 
 <style lang="scss">
 .top-bar{
-  background: #0A73B8;
+  color: #0A73B8;
   height: 30px;
 }
 .header {
@@ -44,7 +44,7 @@ export default {
   top: 0;
   z-index: 10;
   height: 90px;
-  background-color: #0a73b8;
+  color: #0a73b8;
 
   &__left,
   &__right {

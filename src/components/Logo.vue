@@ -15,9 +15,8 @@ siteName
 <style lang="scss">
 .logo {
   text-decoration: none;
-  color: white !important;
+  color: #0a73b8 !important;
   font-size: .9em;
-  background-color: #0a73b8;
   font-size: 36px;
   padding: 4px 16px;
   span {
