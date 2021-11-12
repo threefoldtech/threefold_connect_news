@@ -23,7 +23,7 @@ jobs:
           docker push threefoldjimber/threefold-connect-news:latest
   deploy:
     needs: [build]
-    runs-on: whale01
+    runs-on: whale
     steps:
       - name: remove current running container
         run: docker rm -f threefold-connect-news
