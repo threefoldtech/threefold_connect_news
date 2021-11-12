@@ -23,13 +23,9 @@ jobs:
           docker push threefoldjimber/threefold-connect-news:latest
   deploy:
     needs: [build]
-    runs-on: ubuntu-latest
+    runs-on: whale01
     steps:
-      - name: deploy on ssh
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USERNAME }}
-          key: ${{ secrets.SSH_KEY }}
-          port: ${{ secrets.SSH_PORT }}
-          script: docker rm -f threefold-connect-news || true ; docker run -d --restart unless-stopped --name threefold-connect-news --network 3proxynet threefoldjimber/threefold-connect-news:${{ github.sha }}
+      - name: remove current running container
+        run: docker rm -f threefold-connect-news
+      - name: run container
+        run: docker run -d --restart unless-stopped --name threefold-connect-news --network 3proxynet threefoldjimber/threefold-connect-news:${{ github.sha }}
