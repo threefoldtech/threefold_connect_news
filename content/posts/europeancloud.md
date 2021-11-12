@@ -2,7 +2,7 @@
 title: Europe's Next-Gen Edge Computing Platform
 date: 2021-10-26
 published: true
-tags: ['technology','update','peer_to_peer',''threefold_cloud]
+tags: ['technology','update','peer_to_peer','threefold_cloud']
 cover_image: ./images/europeancloud.png
 canonical_url: false
 description: "We've submitted a joint proposal to the European Commission to build Europe's next-generation edge computing platform!"
