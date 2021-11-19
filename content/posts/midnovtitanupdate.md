@@ -3,7 +3,7 @@ title: Your Mid November Titan v2.1 Update
 date: 2021-11-15
 published: true
 tags: ['farming','update','community']
-cover_image: ./images/newfarmingrewards.png
+cover_image: ./images/midnovtitanupdate.png
 canonical_url: false
 description: "We’ve shipped 90% of all European orders that were placed up until early November, and later this month, we’ll begin shipping to the Americas."
 ---
