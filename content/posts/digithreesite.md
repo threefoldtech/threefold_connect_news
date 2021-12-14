@@ -3,7 +3,7 @@ title: DigiThree Labs is live!
 date: 2021-11-18
 published: true
 tags: ['partner','technology','update','peer_to_peer','news']
-cover_image: ./images/3nodeteamnov22.png
+cover_image: ./images/digithreesite.png
 canonical_url: false
 description: "The DigiThree website is now live! Dig in to see what we're bringing to the world together with DigiCorp."
 ---
