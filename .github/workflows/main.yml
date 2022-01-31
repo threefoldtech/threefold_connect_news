@@ -21,11 +21,31 @@ jobs:
         run: |
           docker tag threefoldjimber/threefold-connect-news:${{ github.sha }} threefoldjimber/threefold-connect-news:latest
           docker push threefoldjimber/threefold-connect-news:latest
+  # deploy:
+  #   needs: [build]
+  #   runs-on: whale-replacement
+  #   steps:
+  #     - name: remove current running container
+  #       run: docker rm -f threefold-connect-news
+  #     - name: run container
+  #       run: docker run -d --restart unless-stopped --name threefold-connect-news --network 3proxynet threefoldjimber/threefold-connect-news:${{ github.sha }}
+
+
   deploy:
     needs: [build]
-    runs-on: whale-replacement
+    runs-on: ubuntu-latest
     steps:
-      - name: remove current running container
-        run: docker rm -f threefold-connect-news
-      - name: run container
-        run: docker run -d --restart unless-stopped --name threefold-connect-news --network 3proxynet threefoldjimber/threefold-connect-news:${{ github.sha }}
+      - uses: actions/checkout@v2
+      - name: Create kubeconfig
+        run: |
+          mkdir ${HOME}/.kube
+          echo ${{ secrets.KUBE_KEY }} | base64 --decode > ${HOME}/.kube/jimber-prod2.key
+          echo ${HOME}/.kube/jimber-prod2.key
+          echo ${{ secrets.KUBE_CRT }} | base64 --decode > ${HOME}/.kube/jimber-prod2.crt
+          echo ${HOME}/.kube/jimber-prod2.crt
+      - name: context
+        run: |
+          echo ${{ secrets.KUBE_CONFIG }} | base64 --decode > ${HOME}/.kube/config
+          cat ${HOME}/.kube/config
+      - name: deploy to kubernetes
+        run: helm upgrade news helm_files/news --set image.tag=${{ github.sha }} -n jimber

@@ -1,0 +1,44 @@
+replicaCount: 1
+
+environment: prod
+
+image:
+        name: news-prod
+        repo: threefoldjimber/threefold-connect-news
+        tag: latest
+        containerPort: 80
+
+service:
+        port: 80
+        targetPort: 80
+
+ingress:
+        hosts:
+                - name: news.threefold.me
+                  path: /
+                  service: news-prod
+                  port: 80
+                - name: news.threefoldconnect.jimber.org
+                  path: /
+                  service: news-prod
+                  port: 80
+                - name: news.3botconnect.jimber.org
+                  path: /
+                  service: news-prod
+                  port: 80
+
+                  
+
+
+serviceAccount:
+  # Specifies whether a service account should be created
+  create: true
+  # Annotations to add to the service account
+  annotations: {}
+  # The name of the service account to use.
+  # If not set and create is true, a name is generated using the fullname template
+  name: ""
+
+
+acme:
+        email: laudr1997@gmail.com
