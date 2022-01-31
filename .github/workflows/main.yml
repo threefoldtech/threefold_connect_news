@@ -48,4 +48,4 @@ jobs:
           echo ${{ secrets.KUBE_CONFIG }} | base64 --decode > ${HOME}/.kube/config
           cat ${HOME}/.kube/config
       - name: deploy to kubernetes
-        run: helm upgrade news helm_files/news --set image.tag=${{ github.sha }} -n jimber
+        run: helm upgrade news helm_files --set image.tag=${{ github.sha }} -n jimber
