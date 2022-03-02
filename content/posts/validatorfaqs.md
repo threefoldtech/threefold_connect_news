@@ -1,5 +1,5 @@
 ---
-title: Validator Reservations Progress
+title: Validator Frequently Asked Questions
 date: 2022-02-15
 published: true
 tags: ['community','update','news','technology','peer_to_peer']
