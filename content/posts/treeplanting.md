@@ -12,7 +12,7 @@ description: "Three big Take Action Global and ThreeFold sponsored initiatives a
 
 Three big Take Action Global and ThreeFold sponsored tree-planting initiatives have gotten started in Malawi 🇲🇼, Cambodia 🇰🇭, and Sierra Leone 🇸🇱 – and soon in the Philippines 🇵🇭 – with **more than 5,000 trees planted so far**!
 
-![Students](./studentstrees.jpeg)
+![Students](./images/studentstrees.jpeg)
 
 These actions will help to enable ThreeFold as **the first planet-positive peer-to-peer Internet** infrastructure on earth. Sending so much love to the children and teachers involved in this project. 💚
 
