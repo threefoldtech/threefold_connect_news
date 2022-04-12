@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Coverage in Crypto Daily
-date: 2021-03-11
+date: 2022-03-11
 published: true
 tags: ['community','update','news','partner']
 cover_image: ./images/paradisehillscryptodaily.png

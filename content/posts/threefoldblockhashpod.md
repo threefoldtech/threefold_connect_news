@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Interview on the BlockHash Podcast
-date: 2021-03-30
+date: 2022-03-30
 published: true
 tags: ['community','update','interview','technology','why','threefold_grid','blockchain']
 cover_image: ./images/threefoldblockhashpod.png

@@ -1,6 +1,6 @@
 ---
 title: Limited L2 Validator Spots Remain
-date: 2021-03-17
+date: 2022-03-17
 published: true
 tags: ['community','update','threefold_grid','technology']
 cover_image: ./images/limitedl2spots.png

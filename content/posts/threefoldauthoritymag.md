@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Interviewed by Authority Magazine
-date: 2021-03-25
+date: 2022-03-25
 published: true
 tags: ['community','update','interview','technology','why','threefold_grid','blockchain']
 cover_image: ./images/threefoldauthoritymag.png

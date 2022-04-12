@@ -1,6 +1,6 @@
 ---
 title: The 1st Grid Enhancement Proposal
-date: 2021-03-15
+date: 2022-03-15
 published: true
 tags: ['community','update','threefold_grid','farming']
 cover_image: ./images/gep1.png

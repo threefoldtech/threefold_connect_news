@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Interviewed by Authority Magazine
-date: 2021-03-21
+date: 2022-03-21
 published: true
 tags: ['community','update','event']
 cover_image: ./images/wbsdubai.png

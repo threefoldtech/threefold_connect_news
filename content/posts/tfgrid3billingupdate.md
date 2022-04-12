@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Grid 3 Billing Update
-date: 2021-03-17
+date: 2022-03-17
 published: true
 tags: ['community','update','threefold_grid','farming']
 cover_image: ./images/tfgrid3billingupdate.png

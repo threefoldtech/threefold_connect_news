@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Weekly! Volume Ten
-date: 2021-03-14
+date: 2022-03-14
 published: true
 tags: ['community','update','news']
 cover_image: ./images/tfweeklyten.png

@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Coverage in CoinCodex
-date: 2021-04-04
+date: 2022-04-04
 published: true
 tags: ['community','update','news','technology','why','threefold_grid','blockchain']
 cover_image: ./images/threefoldcoincodex.png

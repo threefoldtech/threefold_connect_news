@@ -1,6 +1,6 @@
 ---
 title: ThreeFold Coverage in CoinCheckup
-date: 2021-03-25
+date: 2022-03-25
 published: true
 tags: ['community','update','news','technology','why','threefold_grid','blockchain']
 cover_image: ./images/threefoldcoincheckup.png
