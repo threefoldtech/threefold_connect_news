@@ -8,18 +8,6 @@ canonical_url: false
 description: "ThreeFold was hand-picked as a top Web3 startup by StartUs Insights!"
 ---
 
----
-id: threefold_top_web3
-title: ThreeFold Highlighted as Top Web3 Startup
-tags: [community,update,news]
-category: [foundation]
-image: ./threefold_top_web3.png
-image_caption: ThreeFold Top Web3 Startup
-excerpt: ThreeFold was hand-picked as a top Web3 startup by StartUs Insights
-authors: [sam_taggart]
-created: 2022-04-13
----
-
 🗞 **ThreeFold in the News** 🗞
 
 ThreeFold was hand-picked as a top Web3 startup by StartUs Insights – who states "We identify what's next."
