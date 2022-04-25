@@ -5,7 +5,7 @@ published: true
 tags: ['why','community','news','update']
 cover_image: ./images/earthday2022.png
 canonical_url: false
-description: "At ThreeFold, we believe in "Planet First." Take a look at some of the ways ThreeFold is acting to positively impact the planet."
+description: "At ThreeFold, we believe in 'Planet First.' Take a look at some of the ways ThreeFold is acting to positively impact the planet."
 ---
 
 🌍 **Today is Earth Day**
