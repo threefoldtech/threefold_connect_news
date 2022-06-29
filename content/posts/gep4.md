@@ -2,7 +2,7 @@
 title: Another Grid Enhancement Proposal is Live
 date: 2022-05-31
 published: true
-tags: ['community','update','farming,'threefold_grid']
+tags: ['community','update','farming','threefold_grid']
 cover_image: ./images/gep4.png
 canonical_url: false
 description: "Take action on the lates Grid Enhancement Proposal focused on default discount level on the grid."

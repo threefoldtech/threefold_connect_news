@@ -2,7 +2,7 @@
 title: Titan Delivery Update and Reminder
 date: 2022-05-27
 published: true
-tags: ['community','update','farming,'threefold_grid']
+tags: ['community','update','farming','threefold_grid']
 cover_image: ./images/titandeliveryreminder.png
 canonical_url: false
 description: "Global Titan shipping is ongoing in all regions, but we're still waiting on information from some of you!"
