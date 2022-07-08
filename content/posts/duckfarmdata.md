@@ -5,7 +5,7 @@ published: true
 tags: ['community','update','farming','threefold_grid']
 cover_image: ./images/duckfarmdata.png
 canonical_url: false
-description: "A warm welcome to Fuck Farm Data, the newest 3Node partner for North America!"
+description: "A warm welcome to Duck Farm Data, the newest 3Node partner for North America!"
 ---
 
 📣 **New Partner on the Global 3Node Marketplace**
