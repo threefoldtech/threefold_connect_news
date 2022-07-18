@@ -14,4 +14,4 @@ Tomorrow, one of ThreeFold co-founder Adnan Fateyerji's Consensus interviews wil
 
 It will be a great chance to hear about ThreeFold and what sets us apart in the world of digital currencies!
 
-**Free registration [here](https://www.digitalcurrencysummit.com/registration43922607)**
+**Free registration [here](https://www.digitalcurrencysummit.com/registration43922607).**
