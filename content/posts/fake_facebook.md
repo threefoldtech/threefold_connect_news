@@ -3,7 +3,7 @@ title: 🥸 Fake Facebook Page Alert
 date: 2022-12-20
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/fake_facebook.png
 canonical_url: false
 description: "Please be advised there is a fake ThreeFold Facebook profile out there acting as a page, reposting images of people in our community and referring to a ThreeFold Bounty Program."
 ---

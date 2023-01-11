@@ -3,7 +3,7 @@ title: 📚 How To Talk About Deploying on ThreeFold
 date: 2022-01-03
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/talk_about_deploying.png
 canonical_url: false
 description: "Thanks to Drew for creating this great resource for anyone in the community that wants to get the word out about deploying workloads on ThreeFold."
 ---

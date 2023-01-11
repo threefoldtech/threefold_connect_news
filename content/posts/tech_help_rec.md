@@ -3,7 +3,7 @@ title: 🎥 Watch the recording of the Tech Help Call
 date: 2022-12-27
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/tech_help_rec.png
 canonical_url: false
 description: "If you missed it yesterday, you can watch it today!"
 ---

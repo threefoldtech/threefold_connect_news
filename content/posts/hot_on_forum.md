@@ -3,7 +3,7 @@ title: 🔥 Hot on the Forum
 date: 2022-12-22
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/hot_on_forum.png
 canonical_url: false
 description: "Take a look at the recording of the first Weekly Technical Help Room hosted by Drew, and tune in next Monday for the next session. Find more updates within!"
 ---

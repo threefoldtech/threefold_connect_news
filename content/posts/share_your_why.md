@@ -3,7 +3,7 @@ title: ❤️ Share what you love about ThreeFold
 date: 2022-12-23
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/share_your_why.png
 canonical_url: false
 description: "Here's a call to all ThreeFolders to share why they are involved in the ThreeFold project and what makes them believe in it!"
 ---

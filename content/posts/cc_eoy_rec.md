@@ -3,7 +3,7 @@ title: 🎆 Watch - End-of-Year Community Call!
 date: 2022-12-21
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/cc_eoy_rec.png
 canonical_url: false
 description: "Thanks to those who joined us live for the final team-run community call of the year. For the rest, you can find the recording here."
 ---

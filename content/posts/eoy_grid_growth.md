@@ -3,7 +3,7 @@ title: 📈 End of the Year Grid Growth
 date: 2022-12-30
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/eoy_grid_growth.png
 canonical_url: false
 description: "As reported in Scott’s final grid stats update of the year, 2022 showed growth in both number of online nodes and utilization of that hardware."
 ---

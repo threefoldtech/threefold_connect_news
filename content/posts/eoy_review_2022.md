@@ -3,7 +3,7 @@ title: 💫 Here's our End of Year Review!
 date: 2022-12-31
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image:
+cover_image: ./images/eoy_review_2022.png
 canonical_url: false
 description: "In our 2022 Review, we go over the progress made within the ThreeFold ecosystem across different arenas - Grid, Farming, Technology, Decentralization, TFT, Partnerships, Team on the Ground, Mastodon, the Fediverse & ThreeFold, and Q4 Community Calls."
 ---
