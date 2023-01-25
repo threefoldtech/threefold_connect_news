@@ -1,6 +1,6 @@
 ---
 title: 👀 January 16th 2023 Weekly Tech Call Recording
-date: 2022-01-17
+date: 2023-01-17
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
 cover_image: ./tech_help_rec_2.png

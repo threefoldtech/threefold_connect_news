@@ -1,6 +1,6 @@
 ---
 title: 📚 How To Talk About Deploying on ThreeFold
-date: 2022-01-03
+date: 2023-01-03
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
 cover_image: ./images/talk_about_deploying.png

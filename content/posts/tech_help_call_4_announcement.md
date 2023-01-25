@@ -1,6 +1,6 @@
 ---
 title: ☎️ Announcing Community Q&A/Tech Call
-date: 2022-01-24
+date: 2023-01-24
 published: true
 tags: ['threefold_grid','technology','community', 'decentralization']
 cover_image: ./tech_help_call_4_announcement.pn

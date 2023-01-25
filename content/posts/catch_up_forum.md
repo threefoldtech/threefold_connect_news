@@ -1,6 +1,6 @@
 ---
 title: 📚 Catch up with the Forum
-date: 2022-01-19
+date: 2023-01-19
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
 cover_image: ./catch_up_forum.png
