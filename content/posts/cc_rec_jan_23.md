@@ -3,7 +3,7 @@ title: 🍿 January 2023 ThreeFold Community Call Recording
 date: 2023-01-18
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image: ./cc_rec_jan_23.png
+cover_image: ./images/cc_rec_jan_23.png
 canonical_url: false
 description: "For those who missed it, please find the recording of January's community call here"
 ---

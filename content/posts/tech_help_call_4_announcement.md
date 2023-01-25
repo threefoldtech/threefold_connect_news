@@ -3,7 +3,7 @@ title: ☎️ Announcing Community Q&A/Tech Call
 date: 2023-01-24
 published: true
 tags: ['threefold_grid','technology','community', 'decentralization']
-cover_image: ./tech_help_call_4_announcement.pn
+cover_image: ./images/tech_help_call_4_announcement.png
 canonical_url: false
 description: "Drew's invitation to the community for the next Tech Help Call and more"
 ---

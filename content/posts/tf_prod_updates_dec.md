@@ -3,7 +3,7 @@ title: 📣 December’s ThreeFold Product Updates
 date: 2022-12-29
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image: ./images/tf_prod_updattes_dec.png
+cover_image: ./images/tf_prod_updates_dec.png
 canonical_url: false
 description: "Very exciting progress is being made on TF Grid 3.8.0, expected to be released in a couple of weeks!"
 ---

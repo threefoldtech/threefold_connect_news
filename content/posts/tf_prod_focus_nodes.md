@@ -3,7 +3,7 @@ title: 🔍 TF Product Focus - Dedicated Nodes on TF Dashboard
 date: 2023-01-20
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image: ./tf_prod_focus_nodes.png
+cover_image: ./images/tf_prod_focus_nodes.png
 canonical_url: false
 description: "Sasha leads us through some updates released as a part of TFGrid v3.8.0, focusing on new improvements implemented to TFDashboard’s Dedicated Node Feature"
 ---

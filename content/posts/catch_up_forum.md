@@ -3,7 +3,7 @@ title: 📚 Catch up with the Forum
 date: 2023-01-19
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image: ./catch_up_forum.png
+cover_image: ./images/catch_up_forum.png
 canonical_url: false
 description: "The forum has been quite active, find discussions, Q&A's, recaps, and more"
 ---

@@ -3,7 +3,7 @@ title: ☎️  Monthly Community Call coming up!
 date: 2023-01-11
 published: true
 tags: ['threefold_grid','technology','decentralization', 'update']
-cover_image: ./images/cc_jan_2023.png
+cover_image: ./images/cc_jan_23.png
 canonical_url: false
 description: "It is almost time to gather for the first Community Call of 2023!"
 ---

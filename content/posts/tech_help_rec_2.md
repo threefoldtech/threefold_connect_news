@@ -3,7 +3,7 @@ title: 👀 January 16th 2023 Weekly Tech Call Recording
 date: 2023-01-17
 published: true
 tags: ['threefold_grid','technology','update','peer_to_peer']
-cover_image: ./tech_help_rec_2.png
+cover_image: ./images/tech_help_rec_2.png
 canonical_url: false
 description: "Catch up on this week’s discussion with Drew and Scott"
 ---
