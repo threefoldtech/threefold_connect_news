@@ -1,11 +1,11 @@
 ---
-title: ✅ Grid 3.8 Mainnet Upgrade is Complete
+title: 💻 Working with Micro VM Images on the TF Grid
 date: 2023-02-22
 published: true
 tags: ['threefold_grid','technology','community', 'decentralization']
 cover_image: ./images/micro_vm_on_grid.png
 canonical_url: false
-description: "Thanks to the team for their efforts on this release and pushing it live on mainnet."
+description: "Take a look at this video where Scott demonstrates how to create and manipulate micro VM images for deployment on the ThreeFold Grid."
 ---
 
 
