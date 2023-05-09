@@ -5,7 +5,7 @@ published: true
 tags: ['threefold_grid','technology','community', 'decentralization']
 cover_image: ./images/foldit.png
 canonical_url: false
-description: "From Kiluminati, "Foldit is my attempt at providing a (relatively) easy interface for novice users to get their workloads up and running fast.""
+description: "From Kiluminati, 'Foldit is my attempt at providing a (relatively) easy interface for novice users to get their workloads up and running fast.'"
 ---
 
 Community member Kiluminati found ThreeFold and was impressed with the technology and the potential, but felt that deploying on the grid wasn't always so user friendly. So, they decided to take action and do something about it.
