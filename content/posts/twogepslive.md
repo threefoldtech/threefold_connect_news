@@ -5,7 +5,7 @@ published: true
 tags: ['update','technology','threefold_grid']
 cover_image: ./images/twogepslive.png
 canonical_url: false
-description: "GPU support is now being worked on by the team. Read the latest as it pertains to this exciting grid feature!"
+description: "Please head to the ThreeFold Dashboard under the DAO section to vote on the two GEPs which are now live."
 ---
 
 Calling all farmers! Please head to the ThreeFold Dashboard under the DAO section to vote on the two GEPs which are now live.

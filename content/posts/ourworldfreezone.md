@@ -5,7 +5,7 @@ published: true
 tags: ['update','community','technology','partner','news']
 cover_image: ./images/ourworldfreezone.png
 canonical_url: false
-description: "Provide feedback on the team's TF Grid 3.12 proposal, a move towards maximum decentralization!"
+description: "OurWorld Digital Free Zone received some coverage recently from IPPMEDIA. Take a look!"
 ---
 
 "Our vision is to foster a digital ecosystem that harmoniously blends the tranquility of Zanzibar with the awe-inspiring power of the digital age. I am deeply appreciative of the dedication of the OurWorld Zanzibar team in turning this vision into a reality," Zanzibar President Dr. Hussein Mwinyi.
