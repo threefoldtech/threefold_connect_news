@@ -2,7 +2,7 @@
 title: ✅️ TF Grid 3.12 Now on Testnet
 date: 2023-11-09
 published: true
-tags: ['news','update','community','technology', ]
+tags: ['news','update','community','technology']
 cover_image: ./images/tf_grid_312_live_testnet.png
 canonical_url: false
 description: "Looking to help us in testing TF Grid 3.12 on Testnet, know more here."
