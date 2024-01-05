@@ -1,5 +1,5 @@
 ---
-title: africa_regen_ii
+title: 🌍 African Regenerative Futures Summit
 date: 2023-11-21
 published: true
 tags: ['community','event','technology','update']
