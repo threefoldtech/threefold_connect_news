@@ -3,7 +3,7 @@ title: africa_regen_ii
 date: 2023-11-21
 published: true
 tags: ['community','event','technology','update']
-cover_image: ./images/africa_regen_ii
+cover_image: ./images/africa_regen_ii.png
 canonical_url: false
 description: "Learn about the second edition in our Africa Regen Futures Summit series and some of the key outcomes."
 ---
