@@ -3,7 +3,7 @@ title: ✅️ Stricter Minting Rules Into Effect
 date: 2023-11-08
 published: true
 tags: ['news','update','community','technology', 'farming']
-cover_image: ./images/mstricter_minting_update.png
+cover_image: ./images/stricter_minting_update.png
 canonical_url: false
 description: "The stricter minting rules are in effect as of this month, for anyone that missed the updates please dive in to know more."
 
