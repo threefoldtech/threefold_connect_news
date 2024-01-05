@@ -1,6 +1,6 @@
 ---
 title: 🗞 TF Grid 3.12 Update
-date: 2022-11-03
+date: 2023-11-03
 published: true
 tags: ['technology','update','threefold_grid','community','news']
 cover_image: ./images/tf_grid_312_live_qanet.png
