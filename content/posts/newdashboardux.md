@@ -1,5 +1,5 @@
 ---
-title:💡 The New and Improved TF Grid Dashboard UI/UX
+title: 💡 The New and Improved TF Grid Dashboard UI/UX
 date: 2024-01-25
 published: true
 tags: ['update','community','technology','threefold_grid']
