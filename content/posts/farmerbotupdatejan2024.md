@@ -1,5 +1,5 @@
 ---
-title:📚Update on the New Farmerbot
+title: 📚Update on the New Farmerbot
 date: 2024-01-26
 published: true
 tags: ['update','community','technology','threefold_grid']
