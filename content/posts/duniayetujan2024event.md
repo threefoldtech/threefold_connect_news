@@ -3,7 +3,7 @@ title: 🇹🇿 Upcoming Event in Dar Es Salaam
 date: 2024-01-16
 published: true
 tags: ['update','community','technology','threefold_grid']
-cover_image: ./images/tfgrid312livemainnet.png
+cover_image: ./images/duniayetujan2024event.png
 canonical_url: false
 description: "This event will unite tech and innovation communities in Dar Es Salaam with representatives from Tanzania's ICT Commission and other agencies."
 ---
