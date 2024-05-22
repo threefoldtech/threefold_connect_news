@@ -20,7 +20,7 @@ jobs:
         run: docker build . -t threefolddev/staging-threefold-connect-news:${{ github.sha }}
 
       - name: Push to dockerhub
-        run: docker push threefolddev/staing-threefold-connect-news:${{ github.sha }}
+        run: docker push threefolddev/staging-threefold-connect-news:${{ github.sha }}
 
   deploy:
     needs: [build]
