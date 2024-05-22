@@ -32,4 +32,4 @@ jobs:
           mkdir ${HOME}/.kube
           echo ${{ secrets.TF_KUBE_CONFIG }} | base64 --decode > ${HOME}/.kube/config
       - name: deploy or upgrade new to kubernetes threefoldconnect-staging
-        run: helm upgrade news --install helm_files --set image.tag=${{ github.sha }} -n threefoldconnect-staging
+        run: helm upgrade news --install helm_files -f helm_files/valuesStaging.yaml --set image.tag=${{ github.sha }} -n threefoldconnect-staging
