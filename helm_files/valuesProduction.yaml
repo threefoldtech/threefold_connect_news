@@ -4,7 +4,7 @@ environment: prod
 
 image:
         name: news-prod
-        repo: threefoldjimber/threefold-connect-news
+        repo: threefolddev/threefold-connect-news
         tag: latest
         containerPort: 80
 
@@ -41,4 +41,4 @@ serviceAccount:
 
 
 acme:
-        email: laudr1997@gmail.com
+        email: operations@threefold.io
