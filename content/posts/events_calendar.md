@@ -5,7 +5,7 @@ published: true
 tags: ['farming','update','community']
 cover_image: ./images/events_calendar.png
 canonical_url: false
-description: " A public ThreeFold Events calendar to keep you updated on new calls, meetups, and events."
+description: "A public ThreeFold Events calendar to keep you updated on new calls, meetups, and events."
 ---
 
 With more calls happening each month, we have created a [public ThreeFold Events calendar](https://forum.threefold.io/t/threefold-events-calendar/4331) to continually update new calls, meetups, and other events.
