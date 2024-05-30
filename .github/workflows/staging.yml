@@ -1,0 +1,35 @@
+name: News Staging
+
+on:
+  push:
+    tags:
+      - "v[0-9]+.[0-9]+.[0-9]+-rc[0-9]+"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Log into Docker Hub Registry
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.TFDOCKERHUB_USERNAME }}
+          password: ${{ secrets.TFDOCKERHUB_PASSWORD }}
+
+      - name: Build the Docker image
+        run: docker build . -t threefolddev/staging-threefold-connect-news:${{ github.sha }}
+
+      - name: Push to dockerhub
+        run: docker push threefolddev/staging-threefold-connect-news:${{ github.sha }}
+
+  deploy:
+    needs: [build]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create kubeconfig
+        run: |
+          mkdir ${HOME}/.kube
+          echo ${{ secrets.TF_KUBE_CONFIG }} | base64 --decode > ${HOME}/.kube/config
+      - name: deploy or upgrade new to kubernetes threefoldconnect-staging
+        run: helm upgrade news --install helm_files -f helm_files/valuesStaging.yaml --set image.tag=${{ github.sha }} -n threefoldconnect-staging
