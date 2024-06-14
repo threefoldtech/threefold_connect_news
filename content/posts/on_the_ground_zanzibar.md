@@ -12,3 +12,4 @@ Yesterday, some of the team and friends of the project visited IIT Madras Zanzib
 
 Afterward, at [Zanzalu](https://zanzalu.super.site/), ThreeFold co-founder Kristof spoke alongside Matthew Schutte of Holochain on public goods and how to build a new application layer on top of a sovereign infrastructure co-owned by us all. Zanzalu is a spin-off of Zuzalu, the two-month pop-up city founded by Vitalik Buterin held in Montenegro last year.
 
+To know more at what happened Zanzalu click [here](https://www.threefold.io/newsroom/zanzalu-event/)
