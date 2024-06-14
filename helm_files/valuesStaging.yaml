@@ -1,0 +1,36 @@
+replicaCount: 1
+
+environment: staging
+
+image:
+        name: news-staging
+        repo: threefolddev/staging-threefold-connect-news
+        tag: latest
+        containerPort: 80
+
+service:
+        port: 80
+        targetPort: 80
+
+ingress:
+        hosts:
+                - name: news.staging.threefold.me
+                  path: /
+                  service: news-staging
+                  port: 80
+
+                  
+
+
+serviceAccount:
+  # Specifies whether a service account should be created
+  create: true
+  # Annotations to add to the service account
+  annotations: {}
+  # The name of the service account to use.
+  # If not set and create is true, a name is generated using the fullname template
+  name: ""
+
+
+acme:
+        email: operations@threefold.io

@@ -11,24 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Log into Docker Hub Registry
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.TFDOCKERHUB_USERNAME }}
+          password: ${{ secrets.TFDOCKERHUB_PASSWORD }}
+
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag threefoldjimber/threefold-connect-news:${{ github.sha }}
-      - name: Log into GitHub Container Registry
-        run: echo "${{ secrets.DOCKERHUB_PASSWORD }}" | docker login -u ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
+        run: docker build . -t threefolddev/threefold-connect-news:${{ github.sha }}
+
       - name: Push to dockerhub
-        run: docker push threefoldjimber/threefold-connect-news:${{ github.sha }}
+        run: docker push threefolddev/threefold-connect-news:${{ github.sha }}
       - name: Push latest to dockerhub
         run: |
-          docker tag threefoldjimber/threefold-connect-news:${{ github.sha }} threefoldjimber/threefold-connect-news:latest
-          docker push threefoldjimber/threefold-connect-news:latest
-  # deploy:
-  #   needs: [build]
-  #   runs-on: whale-replacement
-  #   steps:
-  #     - name: remove current running container
-  #       run: docker rm -f threefold-connect-news
-  #     - name: run container
-  #       run: docker run -d --restart unless-stopped --name threefold-connect-news --network 3proxynet threefoldjimber/threefold-connect-news:${{ github.sha }}
+          docker tag threefolddev/threefold-connect-news:${{ github.sha }} threefolddev/threefold-connect-news:latest
+          docker push threefolddev/threefold-connect-news:latest  
+
 
 
   deploy:
@@ -39,13 +37,6 @@ jobs:
       - name: Create kubeconfig
         run: |
           mkdir ${HOME}/.kube
-          echo ${{ secrets.KUBE_KEY }} | base64 --decode > ${HOME}/.kube/jimber-prod2.key
-          echo ${HOME}/.kube/jimber-prod2.key
-          echo ${{ secrets.KUBE_CRT }} | base64 --decode > ${HOME}/.kube/jimber-prod2.crt
-          echo ${HOME}/.kube/jimber-prod2.crt
-      - name: context
-        run: |
-          echo ${{ secrets.KUBE_CONFIG }} | base64 --decode > ${HOME}/.kube/config
-          cat ${HOME}/.kube/config
-      - name: deploy to kubernetes
-        run: helm upgrade news helm_files --set image.tag=${{ github.sha }} -n jimber
+          echo ${{ secrets.TF_KUBE_CONFIG }} | base64 --decode > ${HOME}/.kube/config
+      - name: deploy to kubernetes jimber namespace
+        run: helm upgrade news --install helm_files -f helm_files/valuesProduction.yaml --set image.tag=${{ github.sha }} -n jimber
