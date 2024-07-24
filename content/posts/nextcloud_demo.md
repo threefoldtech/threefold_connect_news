@@ -1,6 +1,6 @@
 ---
 title: 👀 Watch the Nextcloud Demo
-date: 2024-07-10
+date: 2024-07-16
 published: true
 tags: ['community','tech' ,'grid']
 cover_image: ./images/nextcloud_demo.png
