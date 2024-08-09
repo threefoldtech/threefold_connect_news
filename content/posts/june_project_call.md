@@ -2,7 +2,7 @@
 title: ☕️ Watch June's Project Update
 date: 2024-07-05
 published: true
-tags: ['update','technology','news','threefold_grid']
+tags: ['community','tech','grid']
 cover_image: ./images/june_project_update.png
 canonical_url: false
 description: "This month's update covered highlights of Grid v3.14, a preview of v3.15, Internet Capacity updates, demos, and more."
