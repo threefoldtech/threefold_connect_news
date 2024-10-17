@@ -1,5 +1,5 @@
 ---
-title: Vote: Proposed Update to the GEP Voting Process
+title: Vote - Proposed Update to the GEP Voting Process
 date: 2024-09-24
 published: true
 tags: ['tech','grid','community']
