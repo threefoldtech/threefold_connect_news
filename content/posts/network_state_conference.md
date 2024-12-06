@@ -5,7 +5,7 @@ published: true
 tags: ['tech','grid','community']
 cover_image: ./images/network_state_conference.png
 canonical_url: false
-description: "Florian was on stage at the Network State Conference in Singapore, to share a powerful solution for any network state.."
+description: "Florian was on stage at the Network State Conference in Singapore, to share a powerful solution for any network state."
 ---
 
 Florian presented how ThreeFold's infrastructure supports network states by ensuring autonomy, security, and control over data and governance.
