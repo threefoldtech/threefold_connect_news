@@ -5,7 +5,7 @@ published: true
 tags: ['community','event','update']
 cover_image: ./images/web4_evolution.png
 canonical_url: false
-description: "Web4 is the next generation of the Internet. Click here to know more."
+description: "TThreeFold announces its Web4 vision and roadmap along with several core components to help Web4 come alive."
 ---
 
 Over the years, ThreeFold has joined hands with people across the world forming a dedicated community. We are very grateful to the community for your time, energy, resources, and overall commitment – together we have built a decentralized cloud that is now available across more than 50 countries.
